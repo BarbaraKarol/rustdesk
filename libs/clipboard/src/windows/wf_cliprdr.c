@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/rustdesk/rustdesk/libs/clipboard/src/windows/wf_cliprdr.c
